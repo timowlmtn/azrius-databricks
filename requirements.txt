@@ -1,0 +1,7 @@
+pyspark==3.5.0
+delta-spark
+pandas
+pyarrow
+requests
+dbt-databricks
+databricks-connect
